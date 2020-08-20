@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek Gupta - aka ListPointr👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/listPointer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
-[![Visitor Count](https ://profile-counter.glitch.me/{list-pointer}/count.svg)
+[![linkedin Connect](https://img.shields.io/linkedin/connect/listPointer?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
 
 ## I'm a Student, Writer, Developer, and Binge Watcher!
 
@@ -15,7 +15,6 @@
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,5 +43,4 @@
 </details>
 
 [twitter]: https://twitter.com/listPointer
-[instagram]: https://instagram.com/muntashir_poetry
 [linkedin]: https://www.linkedin.com/in/abhishek-gupta-4180b0144/
