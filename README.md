@@ -1,7 +1,6 @@
 ### Hi there, I'm Abhishek Gupta - aka ListPointr👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/listPointer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
-[![linkedin Connect](https://img.shields.io/linkedin/connect/listPointer?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
 
 ## I'm a Student, Writer, Developer, and Binge Watcher!
 
