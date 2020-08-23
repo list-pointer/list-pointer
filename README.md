@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/listPointer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/listPointer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flist-pointer&screen_name=ListPointer)
+
 ## I'm a Student, Writer, Developer, and Binge Watcher!
 
 - 🔭 I completed my Graduation in Computer Application(BCA) from AIIT Mumbai.
